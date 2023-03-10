@@ -38,5 +38,5 @@ https://github.com/sergeche/emmet-sublime
 
 ### Sublime's custom image
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/spe-uob/2022-DigitalAssistantCooperation/blob/9716708ae1b709aaabc70d36879da4bc4da8420f/logo2-removebg-preview%20(1).png" alt="Logo"/>
 </p>
